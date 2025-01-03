@@ -1,12 +1,10 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limjunhee4575)](https://solved.ac/limjunhee4575/)
+## 🎓 Education
+2024.01 - 2024.12 : 삼성 청년 SW 아카데미 11기 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljjunh&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ljjunh&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-
+## 🏆 Achievements
+삼성청년SW 아카데미 자율프로젝트 우수상 (24.12) <br>
+삼성청년SW 아카데미 특화프로젝트 우수상 (24.10) <br>
+삼성청년SW 아카데미 관통프로젝트 최우수상 (24.06) <br>
 
 ## 🔨 Skills
 
@@ -73,3 +71,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+## 📈Activity
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limjunhee4575)](https://solved.ac/limjunhee4575/)
+<p><img alt="ljjunh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ljjunh&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px"><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljjunh&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px"></p>
